@@ -1,11 +1,5 @@
 # Todolist API
 
-yaa todolist, apa yang mau dijelaskan.
-
-btw ini project NodeJS pertamaku, gabakal direfactor meski banyak cacatnya (malas). 
-
-oiya, project ini juga ga pake database, semua data disimpen pake array.
-
 ## Get All Todos
 
 - endpoint : localhost:3000/api/
